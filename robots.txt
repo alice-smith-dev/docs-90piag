@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-lg4ztl.saturadar88win.cfd/sitemap.xml
